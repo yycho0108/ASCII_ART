@@ -1,0 +1,23 @@
+﻿Build started 2015-06-18 오전 11:25:11.
+     1>Project "C:\Users\Jamie Cho\Documents\Visual Studio 2013\Projects\ASCII ART GENERATOR\Win32Project29\Win32Project29.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio\NV\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\jamie cho\documents\visual studio 2013\projects\ascii art generator\win32project29\source.cpp(173): warning C4244: '*=' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\jamie cho\documents\visual studio 2013\projects\ascii art generator\win32project29\source.cpp(174): warning C4244: '*=' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\jamie cho\documents\visual studio 2013\projects\ascii art generator\win32project29\source.cpp(188): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\jamie cho\documents\visual studio 2013\projects\ascii art generator\win32project29\source.cpp(487): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\jamie cho\documents\visual studio 2013\projects\ascii art generator\win32project29\source.cpp(489): warning C4018: '>' : signed/unsigned mismatch
+       Link:
+         D:\Visual Studio\NV\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jamie Cho\Documents\Visual Studio 2013\Projects\ASCII ART GENERATOR\Debug\Win32Project29.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jamie Cho\Documents\Visual Studio 2013\Projects\ASCII ART GENERATOR\Debug\Win32Project29.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jamie Cho\Documents\Visual Studio 2013\Projects\ASCII ART GENERATOR\Debug\Win32Project29.lib" /MACHINE:X86 Debug\Win32Project29.res
+         Debug\Extension.obj
+         Debug\Options.obj
+         Debug\Source.obj
+         Debug\Table.obj
+         Debug\TextRender.obj
+         Win32Project29.vcxproj -> C:\Users\Jamie Cho\Documents\Visual Studio 2013\Projects\ASCII ART GENERATOR\Debug\Win32Project29.exe
+     1>Done Building Project "C:\Users\Jamie Cho\Documents\Visual Studio 2013\Projects\ASCII ART GENERATOR\Win32Project29\Win32Project29.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.10
